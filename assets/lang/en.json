@@ -1,0 +1,53 @@
+{
+  
+    "welcome": "Welcome",
+    "incomeTaxCalculator": "Income Tax Calculator",
+    "interestCalculator": "Interest Calculator",
+    "productBillingWithTaxCalculator": "Product Billing With Tax Calculator",
+  
+  
+    "title": "Interest Rate Calculator",
+    "principal_amount": "Principal Amount",
+    "interest_rate": "Interest Rate (%)",
+    "time_period": "Time Period",
+    "years": "Years",
+    "months": "Months",
+    "submit": "Submit",
+    "interest_result": "Interest: RS {0}",
+    "yearly_interest": "Yearly Interest",
+    "monthly_interest": "Monthly Interest",
+    "enter_principal": "Please enter the principal amount",
+    "enter_rate": "Please enter the interest rate",
+    "enter_time": "Please enter the time period",
+
+
+    "appTitle": "Income Tax Calculator",
+    "_timePeriodType": "Time Period",
+    "years1": ["2079", "2080", "2081"],
+    "year1": "2079",
+    "year2": "2080",
+    "year3": "2081",
+    "single": "Single",
+    "married": "Married",
+    "selectYear": "Select Year",
+    "selectStatus": "Select Status",
+    "enterIncome": "Enter Income",
+    "additionalBonus": "Additional Bonus",
+    "selectBonusType": "Select Bonus Type",
+    "deductions": "Deductions",
+    "submit1": "Submit",
+    "reset": "Reset",
+    "taxAmount": "Tax Amount: Rs",
+    "amountInHand": "Amount in Hand: Rs",
+    "taxResult": "The tax amount is {taxAmount} and the amount in hand is {amountInHand}.",
+    "invalidInput": "Please enter a valid numeric value.",
+    "selectYearAndStatus": "Please select Year and Tax Status.",
+    "confirmLogout": "Are you sure to log out?",
+    "no": "No",
+    "yes": "Yes"
+  }
+
+  
+
+  
+  

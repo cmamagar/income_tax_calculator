@@ -1,0 +1,47 @@
+{
+    "welcome": "स्वागतम्",
+    "incomeTaxCalculator": "आयकर गणक",
+    "interestCalculator": "व्याज गणक",
+    "productBillingWithTaxCalculator": "उत्पादन बिलिङ्ग कर गणक",
+  
+    "title": "ब्याज दर क्यालकुलेटर",
+    "principal_amount": "मुख्य रकम",
+    "interest_rate": "ब्याज दर (%)",
+    "time_period": "समय अवधि",
+    "years": "वर्ष",
+    "months": "महिना",
+    "submit": "पेश गर्नुहोस्",  
+    "interest_result": "ब्याज: रु {0}",
+    "yearly_interest": "वार्षिक ब्याज",
+    "monthly_interest": "मासिक ब्याज",
+    "enter_principal": "कृपया मुख्य रकम प्रविष्ट गर्नुहोस्",
+    "enter_rate": "कृपया ब्याज दर प्रविष्ट गर्नुहोस्",
+    "enter_time": "कृपया समय अवधि प्रविष्ट गर्नुहोस्",
+  
+
+
+    "appTitle": "आयकर गणक",
+    "year1":"२०७९",
+    "year2": "२०८०", 
+    "year3": "२०८१",
+    "single": "एकल",
+    "married": "विवाहित",
+    "selectYear": "वर्ष चुन्नुहोस्",
+    "selectStatus": "स्थिति चुन्नुहोस्",
+    "_timePeriodType": "समय अवधि",
+    "enterIncome": "आय चुन्नुहोस्",
+    "additionalBonus": "थप बोनस",
+    "selectBonusType": "बोनस प्रकार चयन गर्नुहोस्",
+    "deductions": "कटौती",
+    "submit1": "पेश गर्नुहोस्",
+    "reset": "पुनः सेट गर्नुहोस्",
+    "taxAmount": "कर रकम: रु",
+    "amountInHand": "हातमा रकम: रु",
+    "taxResult": "करको रकम {taxAmount} हो र हातमा रहेको रकम {amountInHand} हो।",
+    "invalidInput": "कृपया मान्य संख्यात्मक मान प्रविष्ट गर्नुहोस्।",
+    "selectYearAndStatus": "कृपया वर्ष र कर स्थिति चयन गर्नुहोस्।",
+    "confirmLogout": "के तपाइँ साँचिकै लग आउट गर्न चाहनुहुन्छ?",
+    "no": "होइन",
+    "yes": "हो"
+  }
+  
